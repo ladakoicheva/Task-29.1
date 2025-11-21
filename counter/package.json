@@ -2,7 +2,7 @@
   "name": "counter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ladakoicheva.github.io/task-29.1/",
+  "homepage": "https://ladakoicheva.github.io/Task-29.1/",
   "type": "module",
   "scripts": {
     "dev": "vite",
